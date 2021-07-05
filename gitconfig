@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ericthanadabouth@yahoo.fr
+	name = eric thanadabouth
